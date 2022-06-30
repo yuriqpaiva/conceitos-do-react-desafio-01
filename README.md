@@ -14,9 +14,7 @@
 
 ## 📝 License
 
-MIT License © Yuri Paiva. Check [LICENSE](LICENSE.md) for more details
-
----
+MIT License © Yuri Paiva. Check [LICENSE](LICENSE) for more details
 
 <br>
 
